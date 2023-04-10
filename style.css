@@ -112,6 +112,8 @@ body{
     font-size: 18px;
     transition: all 0.25s ease;
     cursor: pointer;
+    background-color: hsl(235, 24%, 19%);
+    display: flex;
 }
 
 .todo-item:hover {
